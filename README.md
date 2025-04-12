@@ -96,7 +96,7 @@ HOST: http://localhost:8080/PitagorasAPI_war_exploded
 
 ### Petición:
 ```http request
-POST /inscripciones/priorizadas
+POST /inscripciones
 HOST: http://localhost:8080/PitagorasAPI_war_exploded
 Content-Type: application/json
 {
